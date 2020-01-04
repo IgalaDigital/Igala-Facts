@@ -24,7 +24,7 @@ $(document).ready(function () {
       $(this).removeClass();
     });
   
-    $("#share").attr("href", "https://twitter.com/intent/tweet?text=\"" + encodeURIComponent($("#hidden").html(randomQuote.quote).text()) + "\" https://codepen.io/xgusth/full/OyeJLP?q=" + quoteNumber);
+    $("#share").attr("href", "https://twitter.com/intent/tweet?text=\"" + encodeURIComponent($("#hidden").html(randomQuote.quote).text()) + "\" https://igalafacts.igaladigital.org?q=" + quoteNumber);
   }
   
   function getRandomQuoteNumber() {
