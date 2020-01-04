@@ -10,3 +10,11 @@ Submit a/your Fact [here](https://forms.gle/bhvK7nVyU3DQDrwz7)
 
 ![Igala Facts Demo](/screen.gif)
 </div>
+
+# Contributors Guide
+
+### Prerequisites
+- Git or any equivalent Version Control System (GitKraten, GitHub Desktop e.t.c)
+- Code Editor (VsCode, Atom e.t.c)
+- Little Bash command line knowledge
+- Basic JavaScript knowledge
