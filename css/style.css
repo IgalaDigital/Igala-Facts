@@ -20,7 +20,7 @@ body {
   }
   
   .main-color {
-    color: rgb(183, 196, 12);
+    color: yellow;
     text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.2);
     font-weight: bold;
   }
@@ -34,7 +34,7 @@ body {
   }
   
   #quote-left, #quote-right {
-    color: #D6FF00;
+    color: yellow;
     font-size: 3em;
     position: absolute;
   }
@@ -63,7 +63,7 @@ body {
   
   .btn {
     border-radius: 10px;
-    color: rgb(238, 255, 0);
+    color: yellow;
     border: 1px solid white !important;
     transition: background 0.8s, color 0.8s;
     line-height: 30px;
@@ -72,7 +72,7 @@ body {
   
   .btn:hover, .btn:active, .btn:focus {
     color: white !important;
-    background-color: rgb(193, 206, 20) !important;
+    background-color: rgb(216, 216, 12) !important;
     box-shadow: none;
   }
   
