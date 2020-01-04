@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(199, 206, 111);
+    color: white;
+    padding-top: 50px;
+    font-size: 18px;
+    font-family: 'Roboto Slab', serif;
+  }
+  
+  h1 {
+    font-size: 4em;
+    line-height: 70px;
+    margin-bottom: 40px;
+    font-weight: bold;
+  }
+  
+  a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: white;
+    transition: color 0.8s;
+  }
+  
+  .main-color {
+    color: rgb(183, 196, 12);
+    text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.2);
+    font-weight: bold;
+  }
+  
+  #quote-box {
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    padding: 100px 40px;
+    position: relative;
+    margin-top: 20px;
+  }
+  
+  #quote-left, #quote-right {
+    color: #D6FF00;
+    font-size: 3em;
+    position: absolute;
+  }
+  
+  #quote-left {
+    top: 20px;
+    left: 20px;
+  }
+  
+  #quote-right {
+    bottom: 20px;
+    right: 20px;
+  }
+  
+  #quote {
+    font-size: 1.5em;
+    text-align: center;
+  }
+  
+  #author {
+    position: absolute;
+    font-size: 1.1em;
+    left: 50px;
+    bottom: 30px;
+  }
+  
+  .btn {
+    border-radius: 10px;
+    color: rgb(238, 255, 0);
+    border: 1px solid white !important;
+    transition: background 0.8s, color 0.8s;
+    line-height: 30px;
+    margin-top: 30px;
+  }
+  
+  .btn:hover, .btn:active, .btn:focus {
+    color: white !important;
+    background-color: rgb(193, 206, 20) !important;
+    box-shadow: none;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+    float: right;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  
+  li {
+    display: inline-block;
+    margin: 0 0 0 1px;
+  }
+  
+  #hidden {
+    display: none;
+  }
