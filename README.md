@@ -37,3 +37,15 @@ Submit a/your Fact [here](https://forms.gle/bhvK7nVyU3DQDrwz7)
 `code .`
 
 6.  Open the index.html file
+
+All Facts are stored in JS file which can be found here `js/app.js`
+Facts are stored in this format
+```
+[
+    {
+	"author": "Ilemona",
+        "quote": "Did you know that Gov Yahaya Bello is now the onu ogwu of igala land?. - Demo Fact"
+    }
+]
+```
+To add a new Fact this Extension; you need to add the Fact to the `JS file`
