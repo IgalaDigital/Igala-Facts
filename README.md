@@ -1,6 +1,6 @@
 <div align="center">
 
-![Igala Facts](/IgalaFacts.png)
+![Igala Facts](img/IgalaFacts.png)
 
 A web/progressive app that lets you know real and interesting facts about Igala.
 
@@ -8,7 +8,7 @@ There is also Google Chrome Extension which is available <img src="https://raw.g
 
 Submit a/your Fact [here](https://forms.gle/bhvK7nVyU3DQDrwz7)
 
-![Igala Facts Demo](/screen.gif)
+![Igala Facts Demo](img/screen.gif)
 </div>
 
 # Contributors Guide
