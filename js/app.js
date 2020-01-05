@@ -1,3 +1,12 @@
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+   navigator.serviceWorker.register('../sw.js').then( () => {
+    console.log('Service Worker Registered')
+   })
+ })
+}
+
+
 $(document).ready(function () {  
     $("#next-quote").on("click", function (e) {
       e.preventDefault();
