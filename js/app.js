@@ -50,4 +50,4 @@ $(document).ready(function () {
   
   {"author": "Naomi", "quote": "Did You Know That Idah is also called Idah Alu Ogo Oja Abutu Eje?"},
   
-  {"author": "Inikpi", "quote": "Did you know that igaladigital is the team behind this project?"}]
+  {"author": "Inikpi", "quote": "Did you know that the Igala kingdom was founded by Abutu- Eje in the 7th century"}]
