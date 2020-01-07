@@ -44,6 +44,8 @@ $(document).ready(function () {
 
   {"author": "Achimugu Ilemona", "quote": "Did you know the Igala alphabet is made up of thirty-one (31) letters: some vowels, others consonants?"},
 
+ {"author": "Hidden", "quote": "Did you know that Ata Ameh Oboni speak fluently in Igala, Ebira & Haus?"},
+
   {"author": "Onuche Joseph", "quote": "Did you know that the Ígálá language has seven (7) vowels: “a,” “e,” “ẹ,” “i,” “o,” “ọ,” “u” (encompassing both all the 5 English vowels and two indigenous ones, ‘ẹ’ and  ‘ọ’).?"},
   
   {"author": "Naomi", "quote": "Did You Know That Idah is also called Idah Alu Ogo Oja Abutu Eje?"},
