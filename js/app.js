@@ -40,11 +40,19 @@ $(document).ready(function () {
     return Math.floor(Math.random() * quotes.length);
   }
   
-  var quotes = [{"author": "Ilemona", "quote": "Did you know that the Igala alphabet was adopted from the English alphabet. The latter has five (5) vowels: “a,” “e,” “i,” “o,” “u.”?"},
+  var quotes = [{"author": "IgalaDigital", "quote": "Did You Know That Ojaina is the place where the Attah's of Igala are burried?"},
+
+  {"author": "IgalaDigital", "quote": "Did You Know That the first aircraft landed at Idah in 1955?"},
+
+  {"author": "IgalaDigital", "quote": "Did You Know That Attah Ameh Oboni, had seen to the completion of an aerodrome in 1954 at Idah?"},
+    
+  {"author": "Ilemona", "quote": "Did you know that the Igala alphabet was adopted from the English alphabet. The latter has five (5) vowels: “a,” “e,” “i,” “o,” “u.”?"},
 
   {"author": "Achimugu Ilemona", "quote": "Did you know the Igala alphabet is made up of thirty-one (31) letters: some vowels, others consonants?"},
 
- {"author": "Hidden", "quote": "Did you know that Ata Ameh Oboni speak fluently in Igala, Ebira & Haus?"},
+  {"author": "IgalaDigital", "quote": "Did You Know That Ojaina is a restricted place only allowed for members from the Attah Ruling House?"}
+
+  {"author": "IgalaDigital", "quote": "Did you know that Ata Ameh Oboni speak fluently in Igala, Ebira & Hausa?"},
 
   {"author": "Onuche Joseph", "quote": "Did you know that the Ígálá language has seven (7) vowels: “a,” “e,” “ẹ,” “i,” “o,” “ọ,” “u” (encompassing both all the 5 English vowels and two indigenous ones, ‘ẹ’ and  ‘ọ’).?"},
   
