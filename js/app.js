@@ -72,5 +72,7 @@ $(document).ready(function () {
 
   {"author": "IgalaDigital", "quote": "Did you know that Ata Obaje Ocheje moved Ameh Oboni from being a market stall tax collector to be come a cheif as onu ugwolawo due to his hard work?"},
 
-  {"author": "IgalaDigital", "quote": "Did you know that Ameh Oboni was moved to ankpa from ugwolawo as the judge, commonly known as *Wakali, to be in charge of seven districts?"}
+  {"author": "IgalaDigital", "quote": "Did you know that Ameh Oboni was moved to ankpa from ugwolawo as the judge, commonly known as *Wakali, to be in charge of seven districts?"},
+
+  {"author": "IgalaDigital", "quote": "Did you know that Patrick A. Okpanachi, Mallam Garba and Peter Achimugu were the first in Igala Land that speaks and write in English Language?"}
 ]
