@@ -62,5 +62,11 @@ $(document).ready(function () {
 
   {"author": "IgalaDigital", "quote": "Did you know that you may likely come home to meet one of your family member dead if you kill an animal at Ojaina?"},
 
-  {"author": "IgalaDigital", "quote": "Did you know that ata Ameh Oboni took his own life on the night of June 26, 1956?"}
+  {"author": "IgalaDigital", "quote": "Did you know that ata Ameh Oboni took his own life on the night of June 26, 1956?"},
+
+  {"author": "IgalaDigital", "quote": "Did you know that the mighty Ata Ameh Oboni died at the age of 51?"},
+
+  {"author": "IgalaDigital", "quote": "Did you know that attah Ameh Oboni schooled in Okene(Ebira Land) between 1934 and 1939? Learned in Hausa Literature"},
+
+  
 ]
