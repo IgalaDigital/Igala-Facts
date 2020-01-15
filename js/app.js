@@ -74,5 +74,7 @@ $(document).ready(function () {
 
   {"author": "IgalaDigital", "quote": "Did you know that Ameh Oboni was moved to ankpa from ugwolawo as the judge, commonly known as *Wakali, to be in charge of seven districts?"},
 
-  {"author": "IgalaDigital", "quote": "Did you know that Patrick A. Okpanachi, Mallam Garba and Peter Achimugu were the first in Igala Land that speaks and write in English Language?"}
+  {"author": "IgalaDigital", "quote": "Did you know that Patrick A. Okpanachi, Mallam Garba and Peter Achimugwu were the first in Igala Land that speaks and write in English Language?"},
+
+  {"author": "IgalaDigital", "quote": "Did you know that Peter Achimugwu was the man that led the campaign to remove Ameh Oboni as the Attah?"}
 ]
