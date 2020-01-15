@@ -68,5 +68,5 @@ $(document).ready(function () {
 
   {"author": "IgalaDigital", "quote": "Did you know that attah Ameh Oboni schooled in Okene(Ebira Land) between 1934 and 1939? Learned in Hausa Literature"},
 
-  
+  {"author": "IgalaDigital", "quote": "Did you know that ata Ameh Oboni started off as a market stall tax collector for Idah and Ejule market?"}
 ]
