@@ -42,7 +42,7 @@ $(document).ready(function () {
   
   var quotes = [{"author": "IgalaDigital", "quote": "Did You Know That Ojaina is the place where the Attah's of Igala are burried?"},
 
-  {"author": "IgalaDigital", "quote": "Did You Know That the first aircraft landed at Idah in 1955?"},
+  {"author": "IgalaDigital", "quote": "Did You Know That the first aircraft that visited the Igala Kingdom landed at Idah in 1955?"},
 
   {"author": "IgalaDigital", "quote": "Did You Know That Attah Ameh Oboni, had seen to the completion of an aerodrome in 1954 at Idah?"},
     
@@ -58,7 +58,7 @@ $(document).ready(function () {
   
   {"author": "Naomi", "quote": "Did You Know That Idah is also called Idah Alu Ogo Oja Abutu Eje?"},
   
-  {"author": "Inikpi", "quote": "Did you know that the Igala kingdom was founded by Abutu- Eje in the 7th century"},
+  {"author": "Inikpi", "quote": "Did you know that Abutu- Eje was the first Igala Ruler?"},
 
   {"author": "IgalaDigital", "quote": "Did you know that you may likely come home to meet one of your family member dead if you kill an animal at Ojaina?"},
 
