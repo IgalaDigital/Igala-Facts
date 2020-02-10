@@ -78,3 +78,4 @@ $(document).ready(function () {
 
   {"author": "IgalaDigital", "quote": "Did you know that Peter Achimugwu was the man that led the campaign to remove Ameh Oboni as the Attah?"}
 ]
+
